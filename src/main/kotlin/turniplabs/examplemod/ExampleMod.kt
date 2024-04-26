@@ -33,4 +33,8 @@ object ExampleMod: ModInitializer, GameStartEntrypoint, RecipeEntrypoint {
 
 	}
 
+	override fun initNamespaces() {
+
+	}
+
 }
